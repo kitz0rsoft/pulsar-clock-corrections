@@ -39,7 +39,7 @@ Log entries from the last few update attempts:
 2026-03-08 20:49:00.850 - Validation failed: New version of T2runtime/clock/gbt2gps.clk MJDs differ from old version where they overlap in 8407 places
 2026-03-09 20:58:42.916 - Validation failed: New version of T2runtime/clock/gbt2gps.clk MJDs differ from old version where they overlap in 8407 places
 2026-03-10 20:57:24.607 - Validation failed: New version of T2runtime/clock/gbt2gps.clk MJDs differ from old version where they overlap in 8407 places
-2026-03-11 22:45:16.115 - Validation failed: New version of T2runtime/clock/gbt2gps.clk MJDs differ from old version where they overlap in 8407 places
+2026-03-11 22:55:08.995 - Validation failed: New version of T2runtime/clock/gbt2gps.clk MJDs differ from old version where they overlap in 8407 places
 ```
 [Full log](https://raw.githubusercontent.com/ipta/pulsar-clock-corrections/main/log/T2runtime/clock/gbt2gps.clk.log)
 
